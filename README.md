@@ -1,2 +1,3 @@
-# net.jgp.labs.system
-Labs around Java interaction with the underlying Operating System (OS).
+#  db-mysql
+
+Add instructions for project developers here.
